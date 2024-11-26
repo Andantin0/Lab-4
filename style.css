@@ -68,24 +68,28 @@ body {
     grid-column: 2 / 3;
     grid-row: 1;
     aspect-ratio: 1;
+    background-color: #ffffff;
   }
   
   .block3 {
     grid-column: 3 / 4;
     grid-row: 1;
     aspect-ratio: 1;
+    background-color: #ffffff;
   }
   
   .block5 {
     grid-column: 3 / 4;
     grid-row: 2;
     aspect-ratio: 1;
+    background-color: #ffffff;
   }
   
   .block6 {
     grid-column: 1 / 2;
     grid-row: 3;
     aspect-ratio: 1;
+    background-color: #ffffff;
   }
   
   .block4 {
@@ -100,6 +104,7 @@ body {
     text-align: center;
     background-color: #ffffff;
     color: rgb(17, 171, 218);
+    border: 2px solid rgb(24, 197, 204);
   }
   
   .block4 h2 {
